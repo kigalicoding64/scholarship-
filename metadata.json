@@ -1,0 +1,6 @@
+{
+  "name": "ElScholarship Hub",
+  "description": "Global scholarship platform featuring verified scholarship listings, managed application concierge services, academic CV builder, and document vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
